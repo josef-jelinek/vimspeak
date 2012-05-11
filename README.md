@@ -1,2 +1,2 @@
-vimmish.js
-==========
+vimspeak.js
+===========
